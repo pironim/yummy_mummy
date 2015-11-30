@@ -64,3 +64,22 @@ I'll add functionality with new ideas.
      or resort existing locale to match specific..
      It can be usefull if you want to review it with your eyes
      another task resort locale like specific one(at least existing keys)
+
+7. Values can be a little bit different
+   its a question about code style
+   single quotes, missing quotes, double quotes.
+   in fact it's a question about quotes.
+   The same quotes can improve readability
+   Potential problem different language can have a problems with no quotes
+   for example (special symbol for PL locale)
+
+8. add missing keys to specific locale. - align locales
+   problem can be complex - missing keys only or different tree structure.
+   I believe this also require sorting and adding.
+   maybe it can be visualized.
+
+9. General problem for lib is what you want to compare?
+   * files?
+   * loaded tree?
+   * yml.erb?(not sure somebody use it)
+   * js locales ? (is there any difference maybe yml level is the same)
