@@ -1,0 +1,18 @@
+pl:
+  bill_view:
+    full_balance: "Pełny Bilans:"
+    pay_in_full: "Zapłać w Całości"
+    pay_partial: "Zapłać Częściowo"
+    less_than_the_full_amount: "Chcesz zapłacić kwotę mniejszą niż pełna należności?"
+    title: "Wybierz kwote którą chcesz zapłacić:"
+  confirm_address:
+    title: "Czy to właściwy adres:"
+  data_processing:
+    data_is_processing: "Proszę czekać<br>bilans konta uzyskuje"
+  footer:
+    copyright: "&copy; City of Chicago"
+    start_over: "Zacznij od Nowa"
+  form:
+    submit: "Zgłoś"
+    proceed: "Kontynuować"
+    finish: "Zakończ"

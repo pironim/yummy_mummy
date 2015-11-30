@@ -1,0 +1,22 @@
+es:
+  account_not_found:
+    drivers_license:
+      message: "La licencia de conducir que se escanea , no se encontró."
+      title: "Licencia de Conducir no Encontrada"
+    notice:
+      message: "El Número de aviso que has introducido no fue encontrado."
+      title: "Número Aviso No Encontrado"
+    plate:
+      message: "El número de matrícula que has introducido no fue encontrado."
+      title: "El Número de Matrícula No Encontrado"
+    ticket:
+      message: "El número de billete que has introducido no fue encontrado."
+      title: "El Número de Billete No Encontrado"
+  bill_view:
+    full_balance: "Saldo Completo:"
+    pay_in_full: "Pagar en Todo"
+    pay_partial: "Pagar Parcial"
+    title: "Elija la Cantidad que Desea Pagar:"
+  address_verification:
+    tickets:
+      title: "¿Es esta la casa número asociado con el coche que recibió el billete?"

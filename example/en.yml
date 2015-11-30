@@ -1,0 +1,15 @@
+en:
+  account_not_found:
+    drivers_license:
+      message: "The drivers license that was scanned, was not found."
+      title: "Drivers License Not Found"
+    notice:
+      message: "The notice number you entered was not found."
+      title: "Notice Number Not Found"
+  bill_view:
+    full_balance: "Current Balance:"
+    pay_in_full: "Pay In Full"
+    pay_partial: "Pay Partial"
+    title: "Select how much would you like to pay"
+  blacklisted:
+    title: "Attention!"
