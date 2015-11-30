@@ -80,4 +80,17 @@
       greeting: 'Hello or not?'    greeting: 'Hello or not hello hmm.'
   ```
 
+11. Generate keys from specific view can be usefull.
+    you type I18n.t('one.another')
+    and than rake task create missing keys based on view
+    not sure it is very usefull but can be helpfull at the begining.
+    for ex. project does not have locales at all.
+    mindless localization .. hm.. currently it's an idea.
+
+12. Another check - detect common words.
+    good candidates - yes, no, title and many separate words.
+    just warn user about such overkill like
+   ```
+     Man you can simplify your locales. nothing specific about yes or no.
+   ```
 
